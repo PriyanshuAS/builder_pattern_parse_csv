@@ -1,0 +1,15 @@
+{
+  "name": "hw7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "builder_pattern.js",
+  "scripts": {
+    "test": "./node_modules/jasmine/bin"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
